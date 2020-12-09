@@ -1,5 +1,6 @@
 ﻿div.PSourceLine
-{
+{color: blue;
+  position: absolute;
 }
 
 div.PSourceRunning
